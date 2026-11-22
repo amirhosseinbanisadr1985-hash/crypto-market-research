@@ -18,7 +18,7 @@ Independent research and analytical case studies covering cryptocurrency markets
 
 An independent research case study examining Chainlink's ecosystem, LINK token utility, tokenomics, competitive positioning, value capture mechanisms, and key risks.
 
-The research report will be uploaded to this repository.
+[📄 Read the Chainlink (LINK) Research Report](./Chainlink_LINK_Research_Amir_Banisadr.pdf)
 
 ## Research Approach
 
